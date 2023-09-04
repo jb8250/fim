@@ -1,6 +1,5 @@
 <h1>File Integrity Monitor</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This PowerShell script is designed to provide basic file monitoring and integrity checking capabilities. It offers the following functionalities:
